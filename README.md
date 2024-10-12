@@ -10,7 +10,7 @@
 - **@Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) Selected as a Senior student.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2nd place](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop) at CS50x Puzzle Day 2024 by solving 9/8 complex
 puzzles.
-- **@[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-linkedin-family-i-want-to-activity-7227953110546087936-m9IH?utm_source=share&utm_medium=member_desktop)** More than 83wpms.
+- **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 83wpms.
 <!-- - 📫 How to reach me **danishmustafa86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
